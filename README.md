@@ -31,7 +31,7 @@ To install the **siegfried_falls_back_on_fido** identification script in Archive
 
 ## Requirements
 
-- [Archivematica version 1.13.2](https://github.com/artefactual/archivematica/releases/tag/v1.13.2)
+- [Archivematica 1.13.2](https://github.com/artefactual/archivematica/releases/tag/v1.13.2)
 - [Siegfried 1.10.1](https://github.com/richardlehane/siegfried/releases/tag/v1.10.1)
 - [Fido 1.4.1](https://github.com/openpreserve/fido/releases/tag/v1.4.1)
 
