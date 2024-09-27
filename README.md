@@ -1,7 +1,7 @@
 
 # Siegfried Falls Back on Fido
 
-**siegfried_falls_back_on_fido** is a custom identification tool for Archivematica that falls back on the Fido tool if Siegfried fails to identify a file.
+**siegfried_falls_back_on_fido** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
 
 
 ## Installation
@@ -32,8 +32,8 @@ To install the **siegfried_falls_back_on_fido** identification script in Archive
 ## Requirements
 
 - Archivematica (version 1.13.2 or higher)
-- Siegfried
-- Fido
+- Siegfried (version 1.10.1 or higher)
+- Fido (version 1.4.1 or higher)
 
 ## Usage
 
