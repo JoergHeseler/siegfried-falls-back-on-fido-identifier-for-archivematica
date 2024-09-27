@@ -44,7 +44,7 @@ As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are 
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
-Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the improvement:
+Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
 
 | 3D format                    | Siegfried 1.10.1     | Fido 1.4.1           | siegfried_falls_back_on_fido |
 | ---------------------------- | -------------------- | -------------------- | ---------------------------- |
