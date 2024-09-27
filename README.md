@@ -27,13 +27,6 @@ To install the **siegfried_falls_back_on_fido** identification script in Archive
 - Find **Identify using siegfried_falls_back_on_fido**. 
 - Click **Enable**.
 
-## Usage
-
-After setting up the tool, follow these steps to identify files:
-1. Go to the Archivematica interface.
-2. Select the new identifier tool **siegfried_falls_back_on_fido**.
-3. Test with sample files to verify.
-
 ## Dependencies
 
 [Archivematica 1.13.2](https://github.com/artefactual/archivematica/releases/tag/v1.13.2), [Siegfried 1.10.1](https://github.com/richardlehane/siegfried/releases/tag/v1.10.1) and [Fido 1.4.1](https://github.com/openpreserve/fido/releases/tag/v1.4.1) were used to analyze, design, develop and test this script.
