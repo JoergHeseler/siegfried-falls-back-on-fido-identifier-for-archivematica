@@ -44,18 +44,18 @@ As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are 
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
-Previously, individual subversions of the archive-friendly 3D formats GLTF or STL were often misidentified or not recognized at all. Now, with **siegfried_falls_back_on_fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the improvement:
+Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the improvement:
 
-| 3D format                   | Siegfried 1.10.1     | Fido 1.4.1           | siegfried_falls_back_on_fido |
-| --------------------------- | -------------------- | -------------------- | ---------------------------- |
-| **GLTF 2.0 ASCII embedded** | correctly recognized | wrongly recognized   | correctly recognized         |
-| **GLTF 2.0 ASCII separate** | correctly recognized | wrongly recognized   | correctly recognized         |
-| **GLTF 1.0 ASCII embedded** | correctly recognized | correctly recognized | correctly recognized         |
-| **GLTF 1.0 ASCII separate** | correctly recognized | correctly recognized | correctly recognized         |
-| **GLB 1.0 binary**          | not recognized       | correctly recognized | correctly recognized         |
-| **GLB 2.0 binary**          | correctly recognized | correctly recognized | correctly recognized         |
-| **STL ASCII**               | correctly recognized | correctly recognized | correctly recognized         |
-| **STL binary**              | correctly recognized | wrongly recognized   | correctly recognized         |
+| 3D format                    | Siegfried 1.10.1     | Fido 1.4.1           | siegfried_falls_back_on_fido |
+| ---------------------------- | -------------------- | -------------------- | ---------------------------- |
+| **glTF 2.0 ASCII embedded**  | correctly recognized | wrongly recognized   | correctly recognized         |
+| **glTF 2.0 ASCII separated** | correctly recognized | wrongly recognized   | correctly recognized         |
+| **glTF 1.0 ASCII embedded**  | correctly recognized | correctly recognized | correctly recognized         |
+| **glTF 1.0 ASCII separated** | correctly recognized | correctly recognized | correctly recognized         |
+| **glTF 1.0 binary**          | not recognized       | correctly recognized | correctly recognized         |
+| **glTF 2.0 binary**          | correctly recognized | correctly recognized | correctly recognized         |
+| **STL ASCII**                | correctly recognized | correctly recognized | correctly recognized         |
+| **STL binary**               | correctly recognized | wrongly recognized   | correctly recognized         |
 
 ## Imprint
 
