@@ -4,7 +4,7 @@
 
 ## Installation
 
-To install **siegfried_falls_back_on_fido_for_archivematica** , follow these steps:
+To install **siegfried_falls_back_on_fido_for_archivematica**, follow these steps:
 
 ### 1. Create a new identification tool
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Tools** > **Create new tool** or go directly to [this link](http://10.10.10.20/fpr/idtool/create/).
