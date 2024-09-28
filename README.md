@@ -1,10 +1,10 @@
-# Siegfried Falls Back on Fido
+# Siegfried Falls Back on Fido for Archivematcia
 
-**siegfried_falls_back_on_fido** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
+**siegfried_falls_back_on_fido_for_archivematica** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
 
 ## Installation
 
-To install the **siegfried_falls_back_on_fido** identification script in Archivematica, follow these steps:
+To install **siegfried_falls_back_on_fido_for_archivematica** , follow these steps:
 
 ### 1. Create a new identification tool
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Tools** > **Create new tool** or go directly to [this link](http://10.10.10.20/fpr/idtool/create/).
@@ -33,11 +33,11 @@ To install the **siegfried_falls_back_on_fido** identification script in Archive
 
 ## Background
 
-As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides the **siegfried_falls_back_on_fido** script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
+As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides the **siegfried_falls_back_on_fido_for_archivematica** script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
-Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
+Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido_for_archivematica**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
 
 | 3D format                    | Siegfried 1.10.1     | Fido 1.4.1           | siegfried_falls_back_on_fido |
 | ---------------------------- | -------------------- | -------------------- | ---------------------------- |
@@ -52,10 +52,10 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 ## Related projects
 
-- [dae_validator](https://github.com/JoergHeseler/dae_validator)
-- [gltf_validator_connector](https://github.com/JoergHeseler/gltf_validator_connector_for_archivematica)
-- [stl_validator](https://github.com/JoergHeseler/stl_validator)
-- [x3d_validator](https://github.com/JoergHeseler/x3d_validator)
+- [dae_validator_for_archivematica](https://github.com/JoergHeseler/dae_validator_for_archivematica)
+- [gltf_validator_connector_for_archivematica](https://github.com/JoergHeseler/gltf_validator_connector_for_archivematica)
+- [stl_validator_for_archivematica](https://github.com/JoergHeseler/stl_validator_for_archivematica)
+- [x3d_validator_for_archivematica](https://github.com/JoergHeseler/x3d_validator_for_archivematica)
 
 ## Imprint
 
