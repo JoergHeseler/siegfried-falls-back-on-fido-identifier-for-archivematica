@@ -1,4 +1,4 @@
-# Siegfried Falls Back on Fido for Archivematcia
+# siegfried_falls_back_on_fido_for_archivematica
 
 **siegfried_falls_back_on_fido_for_archivematica** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
 
