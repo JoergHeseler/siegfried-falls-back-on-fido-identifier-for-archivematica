@@ -50,6 +50,13 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 | **STL ASCII**                | correctly recognized | correctly recognized | correctly recognized         |
 | **STL binary**               | correctly recognized | wrongly recognized   | correctly recognized         |
 
+## Related projects
+
+- [dae_validator](https://github.com/JoergHeseler/dae_validator)
+- [gltf_validator_connector](https://github.com/JoergHeseler/gltf_validator_connector_for_archivematica)
+- [stl_validator](https://github.com/JoergHeseler/stl_validator)
+- [x3d_validator](https://github.com/JoergHeseler/x3d_validator)
+
 ## Imprint
 
 [NFDI4Culture](https://nfdi4culture.de/) – Consortium for Research Data on Material and Immaterial Cultural Heritage
