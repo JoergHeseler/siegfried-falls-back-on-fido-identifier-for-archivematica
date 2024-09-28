@@ -9,14 +9,14 @@ To install **siegfried_falls_back_on_fido_for_archivematica**, follow these step
 ### 1. Create a new identification tool
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Tools** > **Create new tool** or go directly to [this link](http://10.10.10.20/fpr/idtool/create/).
 - Enter the following parameters:
-    - **Description**: Enter `"siegfried_falls_back_on_fido"`.
-    - **Version**: Enter `"1.0"`.
+    - **Description**: Enter `siegfried_falls_back_on_fido`.
+    - **Version**: Enter `1.0`.
 - Click **Save**.
 
 ### 2. Create a new identification command
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Commands** > **Create new command** or go directly to [this link](http://10.10.10.20/fpr/idcommand/create/).
 - Fill in the following fields:
-    - **Description**: Enter `"Identify using siegfried_falls_back_on_fido"`.
+    - **Description**: Enter `Identify using siegfried_falls_back_on_fido`.
     - **Configuration**: Select **PUID**.
     - **Script type**: Select **Python script**.
     - **Script**: Paste the entire content of the **siegfried_falls_back_on_fido.py** file.
