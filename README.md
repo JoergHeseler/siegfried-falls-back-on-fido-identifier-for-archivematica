@@ -1,10 +1,10 @@
-# siegfried_falls_back_on_fido_for_archivematica
+# siegfried_falls_back_on_fido_identifier_for_archivematica
 
-**siegfried_falls_back_on_fido_for_archivematica** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
+**siegfried_falls_back_on_fido_identifier_for_archivematica** is a custom identification tool for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if [Siegfried](https://www.itforarchivists.com/siegfried) fails to identify a file.
 
 ## Installation
 
-To install **siegfried_falls_back_on_fido_for_archivematica**, follow these steps:
+To install **siegfried_falls_back_on_fido_identifier_for_archivematica**, follow these steps:
 
 ### 1. Create a new identification tool
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Tools** > **Create new tool** or go directly to [this link](http://10.10.10.20/fpr/idtool/create/).
@@ -19,7 +19,7 @@ To install **siegfried_falls_back_on_fido_for_archivematica**, follow these step
     - **Description**: Enter `Identify using siegfried_falls_back_on_fido`.
     - **Configuration**: Select **PUID**.
     - **Script type**: Select **Python script**.
-    - **Script**: Paste the entire content of the **siegfried_falls_back_on_fido.py** file.
+    - **Script**: Paste the entire content of the **siegfried_falls_back_on_fido_identifier.py** file.
 - Click **Save**.
 
 ### 3. Enable the new identification command
@@ -33,11 +33,11 @@ To install **siegfried_falls_back_on_fido_for_archivematica**, follow these step
 
 ## Background
 
-As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides the **siegfried_falls_back_on_fido_for_archivematica** script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
+As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides the **siegfried_falls_back_on_fido_identifier_for_archivematica** script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
-Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido_for_archivematica**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
+Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **siegfried_falls_back_on_fido_identifier_for_archivematica**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
 
 | 3D format                    | Siegfried 1.10.1     | Fido 1.4.1           | siegfried_falls_back_on_fido |
 | ---------------------------- | -------------------- | -------------------- | ---------------------------- |
