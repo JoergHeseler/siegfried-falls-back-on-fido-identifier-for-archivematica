@@ -53,7 +53,7 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 ## Related projects
 
 - [dae_validator_for_archivematica](https://github.com/JoergHeseler/dae_validator_for_archivematica)
-- [gltf_validator_connector_for_archivematica](https://github.com/JoergHeseler/gltf_validator_connector_for_archivematica)
+- [gltf_validator_for_archivematica](https://github.com/JoergHeseler/gltf_validator_for_archivematica)
 - [stl_validator_for_archivematica](https://github.com/JoergHeseler/stl_validator_for_archivematica)
 - [x3d_validator_for_archivematica](https://github.com/JoergHeseler/x3d_validator_for_archivematica)
 
