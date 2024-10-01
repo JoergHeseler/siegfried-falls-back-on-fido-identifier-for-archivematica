@@ -29,11 +29,11 @@ To install **siegfried_falls_back_on_fido_identifier_for_archivematica**, follow
 
 ## Test
 
-To test this identifier you can use the sample files located in the [`test`](./test/) folder.
+To test this identifier, you can use the sample files located in the [`test`](./test/) folder.
 
-You can view the error codes and detailed identification results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
+You can view the detailed identification results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
 
-Files with no errors end with the filename `_valid` and should pass identification with this script (i. e. return error code **0**) when identified with this script. However, all other files contain errors and should fail identification (i. e. return error code **1**).
+Files with no errors end with the filename `_valid` and should be correctly identified with this script. However, all other files contain errors and are either not identified at all or incorrectly identified as other file formats.
 
 ## Dependencies
 
