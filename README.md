@@ -27,6 +27,14 @@ To install **siegfried_falls_back_on_fido_identifier_for_archivematica**, follow
 - Find **Identify using siegfried_falls_back_on_fido**. 
 - Click **Enable**.
 
+## Test
+
+To test this validator you can use the sample STL files located in the [`test`](./test/) folder.
+
+You can view the error codes and detailed validation results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
+
+Files with no errors end with the filename `_valid` and should pass validation with this script (i. e. return error code **0**) when validated with this script. However, all other files contain errors and should fail validation (i. e. return error code **1**).
+
 ## Dependencies
 
 [Archivematica 1.13.2](https://github.com/artefactual/archivematica/releases/tag/v1.13.2), [Siegfried 1.10.1](https://github.com/richardlehane/siegfried/releases/tag/v1.10.1) and [Fido 1.4.1](https://github.com/openpreserve/fido/releases/tag/v1.4.1) were used to analyze, design, develop and test this script.
