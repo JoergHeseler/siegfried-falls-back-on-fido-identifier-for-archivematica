@@ -2,6 +2,8 @@
 
 ## DAE
 
+- [Cube DAE 1.4.1 valid](https://raw.githubusercontent.com/JoergHeseler/dae_validator_for_archivematica/refs/heads/main/test/cube_DAE_v1.4.1_valid.dae)
+
 ## glTF
 
 Various valid models and subversions can be found in the [official glTF sample model repository](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/).
@@ -15,6 +17,8 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 - [Box glTF 2.0 separated valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/2.0/Box/glTF)
 
 ## STL
+
+- [Cube STL ASCII valid](https://raw.githubusercontent.com/JoergHeseler/stl_validator_for_archivematica/refs/heads/main/test/cube_STL_ASCII_valid.stl)
 
 ## X3D
 
