@@ -18,6 +18,7 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 
 ## STL
 
+- Cube STL binary valid (Coming soon...)
 - [Cube STL ASCII valid](https://raw.githubusercontent.com/JoergHeseler/stl_validator_for_archivematica/refs/heads/main/test/cube_STL_ASCII_valid.stl)
 
 ## X3D
