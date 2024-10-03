@@ -2,7 +2,7 @@
 
 ## DAE
 
-- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/test/cube_DAE_v1.4.1_valid.dae)
+- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/cube_DAE_v1.4.1_valid.dae)
 
 ## glTF
 
@@ -18,8 +18,8 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 
 ## STL
 
-- [Cube STL binary valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/test/cube_STL_binary_valid.stl)
-- [Cube STL ASCII valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/test/cube_STL_ASCII_valid.stl)
+- [Cube STL binary valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/cube_STL_binary_valid.stl)
+- [Cube STL ASCII valid](https://github.com/JoergHeseler/3d_sample_files_for_digital_preservation_testing/blob/main/cube_STL_ASCII_valid.stl)
 
 ## X3D
 
