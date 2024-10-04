@@ -2,8 +2,8 @@
 
 ## DAE
 
-- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-DAE-1.4.1-valid.dae)
-- [Minimal DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-DAE-1.4.1-valid.dae)
+- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/dae/cube-DAE-1.4.1-valid.dae)
+- [Minimal DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/dae/minimal-DAE-1.4.1-valid.dae)
 
 ## glTF
 
@@ -16,27 +16,27 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 - [Box glTF 1.0 embedded valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-Embedded)
 - [Box glTF 1.0 separated valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-MaterialsCommon)
 - [Box glTF 1.0 binary valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-Binary)
-- [Minimal glTF 2.0 binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-glTF-2.0-binay-valid.dae)
-- [Minimal glTF 2.0 separated valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-glTF-2.0-binay-valid.dae)
+- [Minimal glTF 2.0 binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-glTF-2.0-binay-valid.dae)
+- [Minimal glTF 2.0 separated valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-glTF-2.0-binay-valid.dae)
 
 ## OBJ
 
-- [Cube OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-OBJ-ASCII-valid.obj)
-- [Minimal OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-OBJ-ASCII-valid.obj)
+- [Cube OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/cube-OBJ-ASCII-valid.obj)
+- [Minimal OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/minimal-OBJ-ASCII-valid.obj)
 
 ## PLY
 
-- [Cube PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-PLY-binary-valid.ply)
-- [Cube PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-PLY-ASCII-valid.ply)
-- [Minimal PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-PLY-binary-valid.ply)
-- [Minimal PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-PLY-ASCII-valid.ply)
+- [Cube PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/cube-PLY-binary-valid.ply)
+- [Cube PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/cube-PLY-ASCII-valid.ply)
+- [Minimal PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/minimal-PLY-binary-valid.ply)
+- [Minimal PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/minimal-PLY-ASCII-valid.ply)
 
 ## STL
 
-- [Cube STL binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-STL-binary-valid.stl)
-- [Cube STL ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/cube-STL-ASCII-valid.stl)
-- [Minimal STL binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-STL-binary-valid.stl)
-- [Minimal STL ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/minimal-STL-ASCII-valid.stl)
+- [Cube STL binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/stl/cube-STL-binary-valid.stl)
+- [Cube STL ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/stl/cube-STL-ASCII-valid.stl)
+- [Minimal STL binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/stl/minimal-STL-binary-valid.stl)
+- [Minimal STL ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/stl/minimal-STL-ASCII-valid.stl)
 
 ## X3D
 
