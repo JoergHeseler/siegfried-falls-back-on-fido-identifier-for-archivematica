@@ -2,7 +2,7 @@
 
 ## DAE
 
-- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/dae/cube-DAE-1.4.1-valid.dae)
+- [Cube DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/dae/cube-dae-1.4.1-valid.dae)
 - [Minimal DAE 1.4.1 valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/dae/minimal-dae-1.4.1-valid.dae)
 
 ## glTF
