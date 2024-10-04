@@ -19,7 +19,7 @@ To install **siegfried-falls-back-on-fido-identifier-for-archivematica**, follow
     - **Description**: Enter `Identify using siegfried-falls-back-on-fido`.
     - **Configuration**: Select **PUID**.
     - **Script type**: Select **Python script**.
-    - **Script**: Paste the entire content of the **siegfried-falls-back-on-fido-identifier.py** file.
+    - **Script**: Paste the entire content of the [**siegfried-falls-back-on-fido-identifier.py**](./src/siegfried-falls-back-on-fido-identifier.py) file.
 - Click **Save**.
 
 ### 3. Enable the new identification command
