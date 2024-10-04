@@ -19,18 +19,6 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 - [Minimal glTF 2.0 binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-binary-valid.glb)
 - [Minimal glTF 2.0 separated valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-separated-valid.gltf)
 
-## OBJ
-
-- [Cube OBJ valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/cube-obj-valid.obj)
-- [Minimal OBJ valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/minimal-obj-valid.obj)
-
-## PLY
-
-- [Cube PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/cube-ply-binary-valid.ply)
-- [Cube PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/cube-ply-ascii-valid.ply)
-- [Minimal PLY binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/minimal-ply-binary-valid.ply)
-- [Minimal PLY ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/ply/minimal-ply-ascii-valid.ply)
-
 ## STL
 
 - [Cube STL binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/stl/cube-stl-binary-valid.stl)
@@ -47,3 +35,5 @@ Below is just a brief overview of basic models in various X3D subversions:
 - [Teapot X3D 3.1 valid](https://www.web3d.org/x3d/content/examples/Basic/CAD/CadTeapot.x3d)
 - [Test Cube X3D 3.2 valid](https://www.web3d.org/x3d/content/examples/Basic/DistributedInteractiveSimulation/TestCube.x3d)
 - [Test Cube X3D 3.3 valid](https://www.web3d.org/x3d/content/examples/Basic/Geospatial/Mars.x3d)
+
+Additional 3d test files in other formats can be found in this associated [repository](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing).
