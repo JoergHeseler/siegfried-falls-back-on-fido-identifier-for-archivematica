@@ -21,8 +21,8 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 
 ## OBJ
 
-- [Cube OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/cube-obj-ascii-valid.obj)
-- [Minimal OBJ ASCII valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/minimal-obj-ascii-valid.obj)
+- [Cube OBJ valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/cube-obj-valid.obj)
+- [Minimal OBJ valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/obj/minimal-obj-valid.obj)
 
 ## PLY
 
