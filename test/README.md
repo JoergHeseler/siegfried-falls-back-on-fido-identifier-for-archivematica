@@ -16,8 +16,8 @@ Below is just a brief overview of a basic box model in the most popular glTF sub
 - [Box glTF 1.0 embedded valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-Embedded)
 - [Box glTF 1.0 separated valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-MaterialsCommon)
 - [Box glTF 1.0 binary valid](https://github.com/KhronosGroup/glTF-Sample-Models/tree/main/1.0/Box/glTF-Binary)
-- [Minimal glTF 2.0 binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-binay-valid.dae)
-- [Minimal glTF 2.0 separated valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-binay-valid.dae)
+- [Minimal glTF 2.0 binary valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-binary-valid.glb)
+- [Minimal glTF 2.0 separated valid](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/blob/main/gltf/minimal-gltf-2.0-separated-valid.gltf)
 
 ## OBJ
 
