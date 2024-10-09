@@ -1,6 +1,6 @@
 # Siegfried Falls Back on Fido Identifier for Archivematica
 
-This repository provides a custom identification script for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if the [Siegfried](https://www.itforarchivists.com/siegfried) tool fails to identify a file.
+This repository provides an identification script for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if the [Siegfried](https://www.itforarchivists.com/siegfried) tool fails to identify a file.
 
 ## Installation
 
