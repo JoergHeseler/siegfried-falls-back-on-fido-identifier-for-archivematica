@@ -1,6 +1,6 @@
 # Siegfried Falls Back on Fido Identifier for Archivematica
 
-This repository provides a custom identification script, called **Siegfried Falls Back on Fido** for [Archivematica](https://www.archivematica.org/), that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if the [Siegfried](https://www.itforarchivists.com/siegfried) tool fails to identify a file.
+This repository provides a custom identification script for [Archivematica](https://www.archivematica.org/) that falls back on the [Fido](https://openpreservation.org/tools/fido/) tool if the [Siegfried](https://www.itforarchivists.com/siegfried) tool fails to identify a file.
 
 ## Installation
 
@@ -41,11 +41,11 @@ Files with no errors end with the filename `-valid` and should be correctly iden
 
 ## Background
 
-As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides the **Siegfried Falls Back on Fido** script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
+As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides a script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
-Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with **Siegfried Falls Back on Fido**, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
+Previously, individual subversions of the archive-friendly 3D formats glTF or STL were often not recognized at all or misidentified. Now, with this new script, the accuracy of format identification has significantly improved, ensuring better support for the preservation of 3D files in Archivematica. The following table shows the results of the individual recognizer tools in comparison:
 
 | 3D format                    | Siegfried 1.10.1     | Fido 1.4.1           | siegfried-falls-back-on-fido |
 | ---------------------------- | -------------------- | -------------------- | ---------------------------- |
