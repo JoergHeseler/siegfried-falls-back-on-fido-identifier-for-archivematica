@@ -7,24 +7,28 @@ This repository provides an identification script for [Archivematica](https://ww
 To install this script, follow these steps:
 
 ### 1. Create a new identification tool
+
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Tools** > **Create new tool** or go directly to [this link](http://10.10.10.20/fpr/idtool/create/).
 - Enter the following parameters:
-    - **Description**: Enter `siegfried-falls-back-on-fido`.
-    - **Version**: Enter `1.0`.
+  - **Description**: Enter `siegfried-falls-back-on-fido`.
+  - **Version**: Enter `1.0.0`.
 - Click **Save**.
 
 ### 2. Create a new identification command
+
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Commands** > **Create new command** or go directly to [this link](http://10.10.10.20/fpr/idcommand/create/).
 - Fill in the following fields:
-    - **Description**: Enter `Identify using siegfried-falls-back-on-fido`.
-    - **Configuration**: Select **PUID**.
-    - **Script type**: Select **Python script**.
-    - **Script**: Paste the entire content of the [**siegfried-falls-back-on-fido-identifier.py**](./src/siegfried-falls-back-on-fido-identifier.py) file.
+  - **The related tool**: Select **siegfried-falls-back-on-fido**.
+  - **Description**: Enter `Identify using siegfried-falls-back-on-fido`.
+  - **Configuration**: Select **PUID**.
+  - **Script type**: Select **Python script**.
+  - **Script**: Paste the entire content of the [**siegfried-falls-back-on-fido-identifier.py**](./src/siegfried-falls-back-on-fido-identifier.py) file.
 - Click **Save**.
 
 ### 3. Enable the new identification command
+
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Commands** or go directly to [this link](http://10.10.10.20/fpr/idcommand/).
-- Find **Identify using siegfried-falls-back-on-fido**. 
+- Find **Identify using siegfried-falls-back-on-fido**.
 - Click **Enable**.
 
 ## Test
@@ -41,7 +45,7 @@ Files with no errors end with the filename `-valid` and should be correctly iden
 
 ## Background
 
-As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides a script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format. 
+As part of the [NFDI4Culture](https://nfdi4culture.de/) initiative, efforts are being made to enhance the ability of open-source digital preservation software like Archivematica to identify, validate and preserve 3D file formats. This repository provides a script, which combines two tools: Siegfried as the primary identifier and Fido as a fallback when Siegfried fails to recognize a format.
 
 By default, Archivematica 1.13.2 can only use one identification tool. The advantage of this script is that it allows the combined use of both signature-based tools pre-installed in Archivematica, i. e. Siegfried and Fido, thus improving the overall identification process.
 
