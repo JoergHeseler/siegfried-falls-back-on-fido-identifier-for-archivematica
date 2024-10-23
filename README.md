@@ -37,7 +37,7 @@ To test this identifier, you can use the sample files located [here](https://git
 
 You can view the detailed identification results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
 
-Files with no errors end with the filename ...`valid` and should be correctly identified with this script. However, all other files contain errors and are either not identified at all or incorrectly identified as other file formats.
+Files with no errors end with `valid` in their name and should be correctly identified with this script. However, all other files contain errors and are either not identified at all or incorrectly identified as other file formats.
 
 ## Dependencies
 
