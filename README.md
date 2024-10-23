@@ -29,7 +29,7 @@ To install this script, follow these steps:
 
 - In the Archivematica frontend, navigate to **Preservation planning** > **Identification** > **Commands** or go directly to [this link](http://10.10.10.20/fpr/idcommand/).
 - Find **Identify using siegfried-falls-back-on-fido**.
-- Click **Enable**.
+- It should be enabled by default. Otherwise, click **Enable**.
 
 ## Test
 
