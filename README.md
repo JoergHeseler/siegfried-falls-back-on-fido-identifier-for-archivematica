@@ -33,7 +33,7 @@ To install this script, follow these steps:
 
 ## Test
 
-To test this identifier, you can use the sample files located [`here`](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/tree/main/).
+To test this identifier, you can use the sample files located [here](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing/tree/main/).
 
 You can view the detailed identification results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
 
