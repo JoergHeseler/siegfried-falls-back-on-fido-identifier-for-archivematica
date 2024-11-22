@@ -1,6 +1,6 @@
 # Title: siegfried-falls-back-on-fido-identifier
 # Version: 1.0.0
-# Publication date: 2024, January 5th
+# Publication date: January 5, 2024
 # Publisher: NFDI4Culture
 # License: CC BY 4.0
 
