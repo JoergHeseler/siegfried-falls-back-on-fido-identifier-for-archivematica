@@ -66,7 +66,9 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 - [3D Sample Files for Digital Preservation Testing](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing)
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
+- [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
 - [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
+- [STL Metadata Extractor for Archivematica](https://github.com/JoergHeseler/stl-metadata-extractor-for-archivematica)
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
