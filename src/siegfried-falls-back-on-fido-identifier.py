@@ -101,7 +101,7 @@ def find_puid(sf_output):
     return puid
 
 
-def main(path):
+def identify_file(path):
     try:
         print(find_puid(sf_tool(path)))
     except IdToolError as e:
@@ -126,4 +126,4 @@ def main(path):
 
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1]))
+    sys.exit(identify_file(sys.argv[1]))
