@@ -78,7 +78,7 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 NFDI4Culture is a consortium within the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/).
 
-Author: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
+Contact: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
 
 This repository is licensed under a [Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
