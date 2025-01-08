@@ -64,15 +64,18 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 ## Related projects
 
-<!-- - [3D Sample Files for Digital Preservation Testing](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing) -->
-
+- [3D Sample Files for Digital Preservation Testing](https://github.com/JoergHeseler/3d-sample-files-for-digital-preservation-testing)
 - [DAE Validator for Archivematica](https://github.com/JoergHeseler/dae-validator-for-archivematica)
 - [glTF Metadata Extractor for Archivematica](https://github.com/JoergHeseler/gltf-metadata-extractor-for-archivematica)
 - [glTF Validator for Archivematica](https://github.com/JoergHeseler/gltf-validator-for-archivematica)
   <!-- - [STL Cleaner](https://github.com/JoergHeseler/stl-cleaner) -->
-  <!-- - [STL Metadata Extractor for Archivematica](https://github.com/JoergHeseler/stl-metadata-extractor-for-archivematica) -->
+- [STL Metadata Extractor for Archivematica](https://github.com/JoergHeseler/stl-metadata-extractor-for-archivematica)
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
+
+## Acknowledgments
+
+Special thanks to the IT colleagues at the SLUB Dresden for their support and valuable feedback during development.
 
 ## Imprint
 
@@ -80,7 +83,7 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 NFDI4Culture is a consortium within the German [National Research Data Infrastructure (NFDI)](https://www.nfdi.de/).
 
-Contact: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
+Author: [Jörg Heseler](https://orcid.org/0000-0002-1497-627X)
 
 This repository is licensed under a [Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
