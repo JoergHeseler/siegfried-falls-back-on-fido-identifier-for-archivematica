@@ -73,6 +73,10 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 - [STL Validator for Archivematica](https://github.com/JoergHeseler/stl-validator-for-archivematica)
 - [X3D Validator for Archivematica](https://github.com/JoergHeseler/x3d-validator-for-archivematica)
 
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
 ## Acknowledgments
 
 Special thanks to the colleagues from the SLUB Dresden, specifically from the Infrastructure and Long-Term Availability division, for their support and valuable feedback during the development.
