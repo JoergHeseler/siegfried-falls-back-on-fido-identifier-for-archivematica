@@ -33,7 +33,7 @@ To install this script, follow these steps:
 
 ## Test
 
-To test this identifier, you can use the sample files located [here](https://github.com/JoergHeseler/mesh-samples-for-preservation-testing/tree/main/).
+To test this identifier, you can use the sample files located [here](https://git.slub-dresden.de/nfdi4culturedigitalpreservation/mesh-samples-for-preservation-testing/tree/main/).
 
 You can view the detailed identification results in the Archivmatica frontend after starting a transfer by expanding the `▸ Microservice: Identify file format` section and clicking on the gear icon of `Job Identify file format`.
 
@@ -64,7 +64,7 @@ Previously, individual subversions of the archive-friendly 3D formats glTF or ST
 
 ## Related Projects
 
-- [NFDI4Culture 3D Reference Implementations](https://github.com/JoergHeseler/nfdi4culture-3d-reference-implementations)
+- [NFDI4Culture 3D Reference Implementations](https://git.slub-dresden.de/nfdi4culturedigitalpreservation/nfdi4culture-3d-reference-implementations)
 
 ## Contributing
 
